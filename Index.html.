@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Notícias Esportivas - Atlético Goianiense</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff8f8;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    header h1 {
+      color: #b30000;
+      margin: 0;
+    }
+    nav {
+      background: #b30000;
+      padding: 10px 0;
+      margin-bottom: 30px;
+      border-radius: 8px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    article.main-news {
+      margin-bottom: 50px;
+    }
+    article.main-news h2 {
+      color: #b30000;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    article.main-news img {
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(179,0,0,0.3);
+    }
+    blockquote {
+      font-style: italic;
+      color: #555;
+      border-left: 4px solid #ccc;
+      margin: 20px 0;
+      padding-left: 15px;
+      background: #fafafa;
+      border-radius: 6px;
+    }
+    .info {
+      background: #f7f7f7;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 30px;
+      font-weight: bold;
+      line-height: 1.4;
+      box-shadow: inset 0 0 5px #ddd;
+    }
+    section.other-news {
+      border-top: 2px solid #b30000;
+      padding-top: 30px;
+    }
+    section.other-news h3 {
+      color: #b30000;
+      margin-bottom: 20px;
+    }
+    .news-item {
+      margin-bottom: 20px;
+    }
+    .news-item h4 {
+      margin: 0 0 5px 0;
+      color: #900000;
+    }
+    .news-item p {
+      margin: 0;
+      color: #444;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding: 15px 10px;
+      font-size: 14px;
+      color: #999;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Notícias Esportivas</h1>
+    <nav>
+      <a href="#">Início</a>
+      <a href="#">Futebol</a>
+      <a href="#">Basquete</a>
+      <a href="#">Outros Esportes</a>
+      <a href="#">Contato</a>
+    </nav>
+  </header>
+
+  <article class="main-news">
+    <h2>Após passagem pelo Goiás, Wirley Gontijo retorna ao Atlético Goianiense com moral</h2>
+
+    <img src="https://i.imgur.com/7N8aU3g.jpg" alt="Wirley Gontijo em ação" />
+
+    <p>O jovem meio-campista <strong>Wirley Gontijo</strong>, de 20 anos, está de volta ao <strong>Atlético Goianiense</strong>, reforçando a base do clube com grandes expectativas. Com passagem destacada pelo <strong>Goiás Esporte Clube</strong>, Wirley se firmou como uma das promessas do futebol goiano e agora retorna ao Dragão com mais experiência e bagagem.</p>
+
+    <p>Durante sua trajetória no Goiás, o atleta chamou a atenção do eterno dirigente <strong>Hailé Pinheiro</strong>, uma das figuras mais respeitadas da história do clube esmeraldino. O reconhecimento vindo de uma referência tão emblemática reforçou ainda mais a visibilidade do jogador dentro do cenário estadual.</p>
+
+    <blockquote>“É um garoto promissor, com disciplina dentro e fora de campo. Pode chegar longe”, teria afirmado Hailé, segundo pessoas ligadas à base do Goiás.</blockquote>
+
+    <p>De volta ao Atlético-GO, clube pelo qual já atuou anteriormente, Wirley reencontra um ambiente familiar, mas retorna com uma nova mentalidade e maior maturidade dentro de campo. A expectativa da comissão técnica é que o meio-campista se torne uma peça importante no elenco Sub-20 nesta temporada.</p>
+
+    <blockquote>“Wirley é um jogador que confiamos. Ele volta mais preparado, com qualidade técnica e vivência que podem fazer diferença”, comentou um membro da comissão técnica rubro-negra.</blockquote>
+
+    <p>Focado e determinado, <strong>Wirley Gontijo</strong> mira alto: quer se destacar na base e conquistar seu espaço no profissional, consolidando sua trajetória no futebol brasileiro.</p>
+
+    <div class="info">
+      <strong
